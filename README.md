@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👩🏻‍💻, I'm Katie</h1>
-<h3 align="center">A seasoned 🧂 fullstack developer from Seattle</h3>
+<h3 align="center">A fullstack developer from Seattle</h3>
 
 - 💻 I’m currently working at **Codesmith**
 
