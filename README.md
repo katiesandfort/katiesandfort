@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working at **Codesmith**
 
-- 👩🏻‍🏫 I’m currently learning **Next.js**
+- 👩🏻‍🏫 I’m currently learning **Vue** and **Python**
 
 - 🤓 Ask me about **react, express, and node**
 
