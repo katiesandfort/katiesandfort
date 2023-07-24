@@ -1,12 +1,6 @@
 <h1 align="center">Hello there 👩🏻‍💻, I'm Katie</h1>
 <h3 align="center">A fullstack developer from Seattle</h3>
 
-- 💻 I’m currently working at **Codesmith**
-
-- 👩🏻‍🏫 I’m currently learning **Vue** and **Python**
-
-- 🤓 Ask me about **react, express, and node**
-
 - 📧 Email: **katie.sandfort@gmail.com**
 
 - 👯 Connect: https://www.linkedin.com/in/katie-sandfort/
