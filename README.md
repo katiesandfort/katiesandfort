@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👩🏻‍💻, I'm Katie</h1>
 <h3 align="center">A fullstack developer from Seattle, currently working at <a href="https://armoire.style/" target="_blank">Armoire Style.</a></h3>
 
-- 📧 Email: **katie.sandfort@gmail.com**
-
 - 👯 Connect: https://www.linkedin.com/in/katie-sandfort/
 
 - 🏃🏻‍♀️ Fun fact: **I've run over 10 marathons**
